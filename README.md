@@ -8,4 +8,4 @@
 در این پروژه از تصاویر و فونت های متفاوت در پوشه assets استفاده شد
 
 ## تصاویر نرم افزار
-![app pic](https://github.com/m8811163008/BusinessCardProject/blob/master/images/business_card.jpeg | width=300)
+![app pic](https://github.com/m8811163008/BusinessCardProject/blob/master/images/business_card.jpeg?raw=true|width=300)

@@ -9,4 +9,4 @@
 
 ## تصاویر نرم افزار
 
-![app pic](https://github.com/m8811163008/BusinessCardProject/blob/master/images/business_card.jpeg?raw=true)
+![app pic](https://github.com/m8811163008/BusinessCardProject/blob/master/images/business_card.jpeg?raw=true | width=300)
